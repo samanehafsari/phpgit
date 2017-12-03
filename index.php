@@ -3,3 +3,6 @@
 function sample(){
     
 }
+function doSample(){
+    
+}
